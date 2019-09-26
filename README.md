@@ -6,7 +6,7 @@ This is a project about create post(Use react.js).
 
 if you don't want to download the sweetalert2 and fortawesome,<br>
 There has a normal version.<br>
-▶▶https://github.com/ruby840124/create_app_normal.git<br>
+▶▶https://github.com/ruby840124/create_post_normal<br>
 
 sweetalert2<br>
 `$ npm install sweetalert2-react`<br>
