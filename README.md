@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# create_post
+This is a project about create post(Use react.js).
 
-## Available Scripts
+# initial:
+-----
 
-In the project directory, you can run:
+if you don't want to download the sweetalert2 and fortawesome,<br>
+There has a normal version.<br>
+▶▶https://github.com/ruby840124/create_app_normal.git<br>
 
-### `npm start`
+sweetalert2<br>
+`$ npm install sweetalert2-react`<br>
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+fortawesome<br>
+`$ npm i --save @fortawesome/fontawesome-svg-core`<br>
+`$ npm i --save @fortawesome/free-solid-svg-icons`<br>
+`$ npm i --save @fortawesome/react-fontawesome`<br>
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Home page(initial):
+-----
+`Home page` has two buttons -- `Add Post` and `Remove Post`.<br>
+Press `Add Post` will go to `Post page`.<br>
+`Post page` can add a post that has text or picture.<br>
+Press `Remove Post` will delete the post that user submits. <br>
+<br>
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/home.PNG" width="75%" height="75%">
 
-### `npm test`
+Post page:
+-----
+`Post page` can add a post that has text or picture. <br>
+`Post page` has two buttons -- `Upload` and `Submit`.<br>
+<br>
+▶▶User can write down contents and can upload the picture.
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/post.PNG" width="75%" height="75%"> <br>
+<br>
+▶▶Press `Upload` can upload the picture and then preview the picture. <br>
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/upload.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/image_preview.PNG" width="75%" height="75%"> <br>
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+▶▶Press `Submit` can submit the post and then will go to `Home page`. <br>
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/submit.PNG" width="75%" height="75%"> <br>
 
-### `npm run build`
+Home page(After submit):
+-----
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/home_img.PNG" width="75%" height="75%"> <br>
+<br>
+▶▶Press `Remove Post` will delete the post that user submits. <br>
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/remove.PNG" width="75%" height="75%"> <br>
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Demo video:
+-----
+https://drive.google.com/file/d/1s2CHiMjX9AB6T8Rpuf2MXyoGQnwMgjxc/view?usp=sharing
+<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/video.PNG" width="75%" height="75%"> <br>
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
