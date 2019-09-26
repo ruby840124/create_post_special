@@ -6,11 +6,7 @@ function NumberList(props) {
 		const image_content= props.image_content;
 		let IsImg = [];
 		for (var index in image_content) {
-			if(image_content[index] !=""){
-				IsImg.push("inline");
-			}else{
-				IsImg.push("none");
-			}
+			(image_content[index] !=""?IsImg.push("inline"):IsImg.push("none"));
 		}
 		const listItems = title_text.map((title,index) =>
 			<div key={title+content_text[index]+index} className="list_css">
