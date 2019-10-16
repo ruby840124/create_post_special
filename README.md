@@ -42,7 +42,7 @@ Post page:
 
 Home page(After submit):
 -----
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/home_img.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/home_img.PNG" width="75%" height="75%"> <br>
 <br>
 ▶▶Press `Remove Post` will delete the post that user submits. <br>
 <img src="https://github.com/ruby840124/create_post_special/blob/master/image/remove.PNG" width="75%" height="75%"> <br>
