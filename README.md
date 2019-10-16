@@ -34,23 +34,23 @@ Post page:
 <img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/post.PNG" width="75%" height="75%"> <br>
 <br>
 ▶▶Press `Upload` can upload the picture and then preview the picture. <br>
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/upload.PNG" width="75%" height="75%"> <br>
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/image_preview.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/upload.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/image_preview.PNG" width="75%" height="75%"> <br>
 
 ▶▶Press `Submit` can submit the post and then will go to `Home page`. <br>
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/submit.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/submit.PNG" width="75%" height="75%"> <br>
 
 Home page(After submit):
 -----
 <img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/home_img.PNG" width="75%" height="75%"> <br>
 <br>
 ▶▶Press `Remove Post` will delete the post that user submits. <br>
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/remove.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/remove.PNG" width="75%" height="75%"> <br>
 
 Demo video:
 -----
 https://drive.google.com/file/d/1s2CHiMjX9AB6T8Rpuf2MXyoGQnwMgjxc/view?usp=sharing
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/video.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/video.PNG" width="75%" height="75%"> <br>
 
 
 
