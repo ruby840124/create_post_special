@@ -31,7 +31,7 @@ Post page:
 `Post page` has two buttons -- `Upload` and `Submit`.<br>
 <br>
 ▶▶User can write down contents and can upload the picture.
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/post.PNG" width="75%" height="75%"> <br>
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/post.PNG" width="75%" height="75%"> <br>
 <br>
 ▶▶Press `Upload` can upload the picture and then preview the picture. <br>
 <img src="https://github.com/ruby840124/create_post_special/blob/master/image/upload.PNG" width="75%" height="75%"> <br>
