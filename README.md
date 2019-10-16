@@ -23,7 +23,7 @@ Press `Add Post` will go to `Post page`.<br>
 `Post page` can add a post that has text or picture.<br>
 Press `Remove Post` will delete the post that user submits. <br>
 <br>
-<img src="https://github.com/ruby840124/create_post_react_app/blob/master/image/home.PNG" width="75%" height="75%">
+<img src="https://github.com/ruby840124/create_post_special/blob/master/image/home.PNG" width="75%" height="75%">
 
 Post page:
 -----
