@@ -47,7 +47,7 @@ Home page(After submit):
 ▶▶Press `Remove Post` will delete the post that user submits. <br>
 <img src="https://github.com/ruby840124/create_post_special/blob/master/image/remove.PNG" width="75%" height="75%"> <br>
 
-Demo:
+# Demo:
 https://ruby840124.github.io/create_post_special/
 
 Demo video:
